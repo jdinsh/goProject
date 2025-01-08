@@ -1,16 +1,9 @@
 Accomplishments
-	1.	Landing Page API Delivery
-	3.	You successfully delivered the Landing Page API, ensuring that logged-in users can view only the docspaces relevant to their rep code, branch, and subfirm. This was a critical feature that improved both user experience and data security.
-	2.	Customer Search API Enhancements
-Your work on implementing changes to the Customer Search API was highly impactful, enhancing its functionality and aligning it with business needs.
-	3.	Issue Resolution
-You demonstrated excellent problem-solving skills by addressing and resolving key issues, including:
-	•	Fixing the “Sort by Docspace” functionality.
-	•	Resolving inconsistent search results, which greatly improved the reliability of the system.
-	4.	Production Support Activities
-Your active participation in production support activities has been commendable. You’ve shown dedication by ensuring system stability and providing timely resolutions to user-reported issues.
-Opportunities for Growth and Improvement
-	1.	Business Knowledge
-	3.	While your technical contributions have been outstanding, expanding your understanding of the business domain will help you anticipate user needs more effectively. This will allow you to design solutions that align even more closely with organizational goals.
-	2.	System Design
-Strengthening your expertise in system design principles will enable you to take on more complex development tasks and contribute to creating scalable, efficient, and future-proof solutions.
+	1.	Test Automation Setup: Successfully delivered a comprehensive test automation framework for the project, covering both Smoke Tests and Critical Path Tests for the UI and Backend. This setup significantly improved testing efficiency and reliability.
+	2.	Data Attribute Mapping: Effectively mapped data attributes between two projects, ensuring seamless data integration and consistency.
+	3.	Regression Testing Contribution: Actively participated in regression testing cycles, reporting multiple critical issues that helped improve the quality and stability of the application.
+	4.	Issue Resolution: Resolved key issues related to the “Edit Preferences” functionality, enhancing the overall user experience.
+Opportunities for Growth
+	1.	Release Management Participation: Take an active role in release management to gain a broader understanding of deployment processes and timelines.
+	2.	Backend Development: Begin contributing to backend development tasks using Spring Boot to enhance technical skills and diversify expertise.
+	3.	Delivering Business-Critical Stories: Focus on delivering high-priority business-critical stories to drive greater impact on project outcomes.
