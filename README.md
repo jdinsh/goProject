@@ -1,6 +1,6 @@
-**Ada:
+Ada:
 
-. Active Participation in Release Activities
+1. Active Participation in Release Activities
 	•	Observation: During the recent monthly release cycle, I noticed that you didn’t actively participate in release activities. This left other team members to take on additional tasks, which slightly delayed our timeline.
 	•	Impact: Your limited involvement added extra pressure on your teammates during a critical phase, affecting both efficiency and morale.
 	•	Suggestion:
